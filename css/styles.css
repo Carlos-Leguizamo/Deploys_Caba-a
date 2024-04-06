@@ -762,6 +762,7 @@ display:contents;
 }
 
 .valor{
+    margin-left: 13px;
 margin-bottom: 10px;
 }
 
@@ -771,7 +772,7 @@ display: contents;
 }
 
 .valor-2{
-margin-left: -8px;
+margin-left: -4px;
 width: 350px;
 margin-bottom: 10px;
 }
