@@ -758,7 +758,6 @@ color: black;
 /* CONTENEDORES DE VALORES */
 
 .titulo h1{
-margin-left: -10px;
 margin-bottom: 30px;
 }
 
@@ -768,7 +767,7 @@ display:contents;
 }
 
 .valor{
-    margin-left: 13px;
+    margin-left: 18px;
 margin-bottom: 10px;
 }
 
@@ -778,8 +777,8 @@ display: contents;
 }
 
 .valor-2{
-margin-left: -4px;
-width: 350px;
+margin-left: 8px;
+width: 354px;
 margin-bottom: 10px;
 }
 
